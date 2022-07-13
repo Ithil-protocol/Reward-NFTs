@@ -1,4 +1,22 @@
 {
+  {
+  "name": "@ithil-protocol/reward-nfts",
+  "description": "NFT rewards for early adopters",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": [
+    "ithil",
+    "NFT",
+    "ethereum",
+    "solidity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ithil-protocol/Reward-NFTs"
+  },
+  "engines": {
+    "node": ">=14"
+  },
   "dependencies": {
     "@openzeppelin/contracts": "^4.6.0",
     "hardhat": "^2.9.9"
